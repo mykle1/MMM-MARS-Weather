@@ -1,0 +1,79 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-MARS-Weather .header {
+  color: white;               /* Header color. Default is white. */
+}
+
+.MMM-MARS-Weather .module-content {
+  margin-left: 0px;          /* Precisely align moon picture with these */
+  margin-right: 0px;
+  margin-top: -28px;         /* -41px for current. -21px for animation or static. */
+  margin-bottom: 0px;      /* -51px for current. -21px for animation or static. */
+}
+
+.MMM-MARS-Weather .photo {
+/*  display: none;              uncomment if you don't want an image */
+  width: 75%;                /* adjust size of moon picture */
+  margin-left: 0px;          /* Precisely align moon picture with these */
+  margin-right: 0px;
+  margin-top: 0px;         /* -41px for current. -21px for animation or static. */
+  margin-bottom: -0px;      /* -51px for current. -21px for animation or static. */
+}
+
+.MMM-MARS-Weather .solDate {
+  color: white;               /* solDate color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .season {
+  color: white;               /* season color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .minAirTemp {
+  color: white;               /* minAirTemp color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .maxAirTemp {
+  color: white;               /* maxAirTemp color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .weather {
+  color: white;               /* weather color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .minGroundTemp {
+  color: white;               /* minGroundTemp color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .maxGroundTemp {
+  color: white;               /* maxGroundTemp color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .sunrise {
+  color: white;               /* sunrise color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-MARS-Weather .sunset {
+  color: white;               /* sunset color. Default is white. */
+  text-align: center;
+  /*  display: none; */       /* uncomment if you don't want this */
+}
